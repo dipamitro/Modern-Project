@@ -1,3 +1,3 @@
 # Modern-Project
- ## E_commerce website
+ ## E-commerce website
 https://dipamitro.github.io/Modern-Project/Shop_Project/
